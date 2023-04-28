@@ -1,5 +1,5 @@
 <h1 align="center">Greetings! I'm Futs!</h1>
-<h3 align="center">I'm aν undergraduate student exploring the magical world of programming</h3>
+<h3 align="center">I'm an undergraduate student exploring the magical world of programming</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=futsies&label=Profile%20views&color=0e75b6&style=flat" alt="futsies" /> </p>
 
