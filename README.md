@@ -5,19 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=futsies" alt="futsies" /></a> </p>
 
-- 🔭 I’m currently working on [a uni project about SW.](https://github.com/Futsies/sw/tree/2020174/projects/2020174)
-
-- 🌱 I’m currently learning **Javascript**
-
-- 🤝 I’m looking for help with **anything really.**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Futsies](https://github.com/Futsies)
 
 - 💬 Ask me about **anything :D**
 
-- 📫 How to reach me **p20tzel@ionio.gr**
-
-- ⚡ Fun fact **There are few exceptions with some countries swapping the meanings between nodding and shaking head: in Greece, Macedonia, Bulgaria and Albania a single nod of the head up (not down) indicates a "no".**
+- 📫 How to reach me **fotios.tzel@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
